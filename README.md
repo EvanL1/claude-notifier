@@ -310,7 +310,3 @@ echo '{"event":"build_success","title":"构建 #123","content":"耗时 2分30秒
 ## 📝 许可证
 
 本项目采用 MIT 许可证 - 详见 [LICENSE](LICENSE) 文件。
-
----
-
-Made with ❤️ by Claude Assistant & Contributors
