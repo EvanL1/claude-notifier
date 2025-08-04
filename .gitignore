@@ -1,0 +1,34 @@
+# Rust
+/target
+**/*.rs.bk
+*.pdb
+
+# Editor directories and files
+.idea
+.vscode
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Config files with sensitive data
+config.json
+!config.example.json
+
+# Test files
+test-config.json
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local environment
+.env
+.env.local
